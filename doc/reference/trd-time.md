@@ -5,7 +5,7 @@ Kernel Time HIL
 **Working Group:** Kernel<br/>
 **Type:** Documentary<br/>
 **Status:** Draft <br/>
-**Author:** Amit Levy and Philip Levis <br/>
+**Author:** Amit Levy and Philip Levis and Guillaume Endignoux <br/>
 **Draft-Created:** Feb 06, 2017<br/>
 **Draft-Modified:** March 18, 2020<br/>
 **Draft-Version:** 2<br/>
@@ -290,8 +290,7 @@ A chip SHOULD provide an Alarm with a `Frequency` of `Freq1MHz`.
 ===============================
 
 The traits and abstractions in this document draw from contributions
-and ideas from Patrick Mooney and Guillaume Endignoux as well as
-others.
+and ideas from Patrick Mooney as well as others.
 
 
 10 Authors' Address
@@ -300,3 +299,5 @@ others.
 email - amit@amitlevy.com
 
 email - pal@cs.stanford.edu
+
+email - guillaumee@google.com
